@@ -1,4 +1,4 @@
-// Punto de entrada
+// Entrada de aplicación
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
